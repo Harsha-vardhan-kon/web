@@ -1,0 +1,15 @@
+.Feedback-conatiner{
+    width: 500px;
+    height: 300px;
+    border: 1px solid;
+    position: relative;
+    left: 200px;
+    text-align: center;
+    top: 80px;
+    border-radius: 5px;
+    box-shadow: inset 0px 0px 5px 0px rgba(0,0,0.4,0.3);
+}
+.button{
+    position: relative;
+    top: 20px;
+}
